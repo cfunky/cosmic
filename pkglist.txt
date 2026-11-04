@@ -1,0 +1,35 @@
+cosmic cosmic-app-library
+cosmic cosmic-applets
+cosmic cosmic-bg
+cosmic cosmic-comp
+cosmic cosmic-files
+cosmic cosmic-greeter
+cosmic cosmic-idle
+cosmic cosmic-initial-setup
+cosmic cosmic-launcher
+cosmic cosmic-monitor
+cosmic cosmic-notifications
+cosmic cosmic-osd
+cosmic cosmic-osk
+cosmic cosmic-panel
+cosmic cosmic-player
+cosmic cosmic-randr
+cosmic cosmic-screenshot
+cosmic cosmic-session
+cosmic cosmic-settings
+cosmic cosmic-settings-daemon
+cosmic cosmic-sound-theme
+cosmic cosmic-store
+cosmic cosmic-terminal
+cosmic cosmic-text-editor
+cosmic cosmic-viewer
+cosmic cosmic-wallpapers
+cosmic cosmic-workspaces
+cosmic xdg-desktop-portal-cosmic
+dconf
+gnome-keyring
+system-config-printer
+gvfs
+gvfs-nfs
+gvfs-smb
+gvfs-dnssd
